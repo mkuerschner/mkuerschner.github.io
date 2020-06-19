@@ -14,3 +14,5 @@ Dies ist eine Becshreibung zum oben erwähnten Buch von Erich Maria Remarque. De
 Paul Baeumer sagte:
 > Zigaretten und Pfeifen aus. - 
 > Wir sind dicht an der Graeben.
+
+<img src="https://de.wikipedia.org/wiki/Im_Westen_nichts_Neues#/media/Datei:Remarque_Im_Westen_nichts_Neues_1929.jpg"/>
