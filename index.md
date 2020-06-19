@@ -10,3 +10,7 @@ Dies ist eine Becshreibung zum oben erwähnten Buch von Erich Maria Remarque. De
 * Fuehrt diese an
 * ist eine Vertrauensperson
 * ueberlebt
+
+Paul Baeumer sagte:
+> Zigaretten und Pfeifen aus. - 
+> Wir sind dicht an der Graeben.
