@@ -8,3 +8,5 @@ Dies ist eine Becshreibung zum oben erwähnten Buch von Erich Maria Remarque. De
 * Kuemmert sich um Kameraden
 * Fuehrt diese an
 * ist eine Vertrauensperson
+* ueberlebt
+
